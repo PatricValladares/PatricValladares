@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PatricValladares
-- 👀 I’m interested in learn a lot to become reference in my area
-- 🌱 I’m currently undergraduate in software enginering
+- Hi, I’m @PatricValladares
+- Interested in learn a lot to become reference in my area
+- I’m currently undergraduate in software enginering
 
 
 <!---
